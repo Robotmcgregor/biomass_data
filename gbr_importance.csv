@@ -1,0 +1,24 @@
+Feature,Feature_Name,Importance
+dbifmdry_NDVI_p50,NDVI(d),0.27862502
+b1_h99_p50,Height 99th(a),0.083556888
+b1_hsd_p50,Height Std-dev(a),0.083276594
+dbifmdry_r43_p50,NIR/Red(a),0.055057699
+dbifman_CVI_p50,CVI(a),0.052401697
+dbifman_r54_p50,SWIR1/NIR,0.049687961
+b1_dbifm_p50,Blue(a),0.049364044
+b2_dp1fm_dry_p50,PV FC(d),0.039959937
+b1_hcv_p50,Height Cov(a),0.034996989
+b2_dbifm_p50,Green(a),0.033163407
+b1_hmc_p50,Height Mean(a),0.032472594
+b1_ccw_dry_p50,CPC(d),0.031392075
+dbifmdry_GNDVI_p50,GNDVI(d),0.028274269
+dbifman_MSAVI_p50,MSAVI(a),0.023615455
+dbifman_DVI_p50,DVI(a),0.022719333
+dbifman_r63_p50,SWIR2/Red(a),0.016545323
+dbifman_r65_p50,SWIR2/SWIR1(a),0.01617207
+b1_dp1fm_p50,BG FC(a),0.015342244
+b1_h25_p50,Height 25th(a),0.013473877
+b2_dp1fm_p50,PV FC(a),0.012316066
+dbifmdry_MSR_p50,MSR(d),0.011514665
+b3_dp1fm_dry_p50,NPV FC(d),0.010124693
+b3_dp1fm_p50,NPV FC(a),0.005947102
